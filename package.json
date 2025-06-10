@@ -1,0 +1,13 @@
+{
+  "name": "configurable-rag",
+  "version": "0.1.0",
+  "description": "Utilities for generating custom innate-in nodes",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node scripts/generateInnateNode.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "yaml": "^2.3.0"
+  }
+}
